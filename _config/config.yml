@@ -1,0 +1,9 @@
+---
+Name: HandyPages
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+SiteConfig:
+  extensions:
+    - BrandColorExtension
