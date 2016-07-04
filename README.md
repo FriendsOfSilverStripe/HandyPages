@@ -2,7 +2,7 @@
 
 A collection of useful PHP classes and SilverStripe modules for SS 3.x to get a new website started quickly.
 
-The [generic page](https://github.com/FriendsOfSilverStripe/backendmessages/blob/master/code/page-types/GenericPage.php "View GenericPage.php") type comes with the following *deactivatable* options for inputs:
+The [generic page](https://github.com/FriendsOfSilverStripe/HandyPages/blob/master/code/pagetypes/GenericPage.php "View GenericPage.php") type comes with the following *deactivatable* options for inputs:
 
 * alternative title and intro (including min/max-length validation)
 * an image per page (including width/height validation)
