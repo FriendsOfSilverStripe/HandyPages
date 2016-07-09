@@ -57,4 +57,4 @@ composer require friendsofsilverstripe/handypages
 php ./framework/cli-script.php dev/build
 ```
 
-## MISC: [Future ideas/development, issues](https://github.com/FriendsOfSilverStripe/handypages/issues), [Contributing](https://github.com/FriendsOfSilverStripe/handypages/blob/master/CONTRIBUTING.md), [License](https://github.com/FriendsOfSilverStripe/handypages/blob/master/license.md)
+## misc: [Future ideas/development, issues](https://github.com/FriendsOfSilverStripe/handypages/issues), [Contributing](https://github.com/FriendsOfSilverStripe/handypages/blob/master/CONTRIBUTING.md), [License](https://github.com/FriendsOfSilverStripe/handypages/blob/master/license.md)
