@@ -1,6 +1,6 @@
 # [useful base page-type](https://github.com/FriendsOfSilverStripe/handypages "HandyPages for building a SilverStripe websites") for building a SilverStripe website. [![Latest Stable Version](https://poser.pugx.org/FriendsOfSilverStripe/HandyPages/version.svg)](https://github.com/FriendsOfSilverStripe/HandyPages/releases) [![Latest Unstable Version](https://poser.pugx.org/FriendsOfSilverStripe/HandyPages/v/unstable.svg)](https://packagist.org/packages/FriendsOfSilverStripe/HandyPages) [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/FriendsOfSilverStripe/handypages.svg)](https://scrutinizer-ci.com/g/FriendsOfSilverStripe/handypages?branch=master) [![Total Downloads](https://poser.pugx.org/FriendsOfSilverStripe/handypages/downloads.svg)](https://packagist.org/packages/FriendsOfSilverStripe/handypages) [![License](https://poser.pugx.org/FriendsOfSilverStripe/HandyPages/license.svg)](https://github.com/FriendsOfSilverStripe/HandyPages/blob/master/license.md)
 
-A collection of useful PHP classes and SilverStripe modules for SS 3.x to get a new website started quickly.
+## A collection of useful PHP classes and SilverStripe modules for SS 3.x to get a new website started quickly.
 
 The [generic page](https://github.com/FriendsOfSilverStripe/HandyPages/blob/master/code/pagetypes/GenericPage.php "View GenericPage.php") type comes with the following *deactivatable* options for inputs:
 
@@ -18,7 +18,7 @@ and the following modules:
 * [Inheritage of values from parent page types](https://github.com/FriendsOfSilverStripe/inheritage-by-sitetree "Allows to inherit a value from parent pages in the SiteTree")
 * [Backendmessages](https://github.com/FriendsOfSilverStripe/backendmessages#usage "DRY generation of message boxes in the CMS.") for message boxes.
 
-# How to use this?
+## How to use this?
 
 Simply extend your custom page types of this GenericPage:
 
