@@ -168,6 +168,6 @@ class GenericPage extends Page
     }
 }
 
-class GenericPage_Controller extends ContentController
+class GenericPage_Controller extends Page_Controller
 {
 }
